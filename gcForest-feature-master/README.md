@@ -2,7 +2,7 @@ gcForest v1.1.1 Is Here!
 
 The new is  :  Add feature score for gcForest(only use xboost and Random forest)
 
-
+Blog address is :  https://blog.csdn.net/phyllisyuell/article/details/85258877
 
 
 
