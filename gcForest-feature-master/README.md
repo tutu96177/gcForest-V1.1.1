@@ -2,6 +2,12 @@ gcForest v1.1.1 Is Here!
 
 The new is  :  Add feature score for gcForest(only use xboost and Random forest)
 
+
+
+
+
+
+
 ========
 This is the official clone for the implementation of gcForest.(The University's webserver is unstable sometimes, therefore we put the official clone here at github)
 
